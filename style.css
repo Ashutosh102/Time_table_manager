@@ -1,0 +1,27 @@
+body{
+     background-color: #acacac;
+}
+h1
+{
+  color:black;
+}
+p{
+  font-size: 20px;
+  margin-left: 5px;
+}
+a{
+text-decoration: none;
+font-size: 25px;
+color:red;
+}
+a:hover
+{
+  text-decoration: underline;
+  color:blue;
+}
+#new
+{
+  font-size: 25px;
+  margin-left: 5px;
+  color:blue;
+}
